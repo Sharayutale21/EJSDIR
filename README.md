@@ -1,0 +1,2 @@
+# EJSDIR
+template
